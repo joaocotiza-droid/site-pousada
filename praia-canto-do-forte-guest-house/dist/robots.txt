@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://praia-canto-do-forte-guest-house.bertonejoaov.chatgpt.site/sitemap.xml
